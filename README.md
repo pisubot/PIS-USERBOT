@@ -17,7 +17,7 @@ Terimakasih telah menggunakan repository ini!
 
 <p align="center">&nbsp;</p>
 <a href="https://github.com/pisubot/Pis-Userbot/fork">
-    <img src="https://img.shields.io/github/forks/apisuserbot/Pis-Userbot?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/apisuserbot/Pis-Userbot?label=Fork&Blue&style=social">
 
 
 ![Pis Userbot Logo](https://telegra.ph/file/785256129b0880d6e138b.jpg)
@@ -35,7 +35,7 @@ Terimakasih telah menggunakan repository ini!
 
 ### Generate String Using Replit
 
-[![PIS-UBOT-STRING](https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it)](https://replit.com/@hapidqiyas/StringSession#main.py)
+[![PIS-UBOT-STRING](https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it)](https://replit.com/@PIS-USERBOT/StringSession#main.py)
 
 
 ## DEPLOY TO HEROKU 
@@ -59,9 +59,8 @@ Gabung [Grup Support](https://t.me/PisUserbot) Dan [Channel Update](https://t.me
 
 
 ⚡ **CONTRIBUTOR AND TEAM**
-*
-[Apis] (https://github.com/pisubot/Pis-Userbot)
-*  [Fariz](https://github.com/fjgaming212/Flicks-Userbot)    Flicks - Userbot
+*   [Apis](https://github.com/pisubot/Pis-Userbot)    Pis-Userbot
+*   [Fariz](https://github.com/fjgaming212/Flicks-Userbot)    Flicks - Userbot
 *   [Skyzo](https://github.com/ridho17-ind/XBot-Music)     Flicks Music
 *   [Kyy](http://github.com/muhammadrizky16/Kyy-Userbot)    Kyy - Userbot
 *   [Tonic](http://github.com/Tonic990/Tonic-User)    Tonic - Userbot
@@ -69,8 +68,12 @@ Gabung [Grup Support](https://t.me/PisUserbot) Dan [Channel Update](https://t.me
 
 🔰 **THANKS YOU TO**
 *   [Kennedy](https://github.com/KennedyProject/KEN-UBOT)    Ken - Userbot
+*   [Fariz](https://github.com/fjgaming212/Flicks-Userbot)    Flicks - Userbot
 *   [Apis](https://github.com/apisuserbot/King-Userbot)     King - Userbot
 *   [Vicky](https://github.com/Vckyou/Geez-Project)    Geez - Project 
 *   [Koala](https://github.com/ManusiaRakitan/Kampang-Bot)    Kampang - Bot
 *   [Risman](https://github.com/mrismanaziz/Man-Userbot)   Man - Userbot
 *   DAN TERIMAKASIH KEPADA USERBOT LAINNYA
+
+## License
+Licensed under [GNU GENERAL PUBLIC LICENSE](https://github.com/pisubot/Pis-Userbot) - Version 3.d, 22 November 2021
