@@ -3,17 +3,18 @@
 Pis-Userbot adalah userbot Telegram berjalan pada Python 3.6 dengan database sqlalchemy.
 
 Berbasis [King](https://github.com/apisuserbot/King-Userbot)  [Ken](https://github.com/KennedyProject/KEN-UBOT)
-[Flicks](https://github.com/fjgaming212/Flicks-Userbot) userbot. Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan module,
+[Flicks](https://github.com/fjgaming212/Flicks-Userbot) userbot. Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan module.
+
 Terimakasih telah menggunakan repository ini!
 .
-    
+
 <a href="https://t.me/pisuserbot"><img src="https://img.shields.io/badge/Tutorial%20Deploy%3F-PISUBOT-blue?&style=flat-square?&logo=telegram" width=165px></a></p>
 
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5563981.gif" width="802" height="96" alt="Pis Userbot" /></a>
 
 <p align='center'>
    <a href="https://wa.me/"><img height="30" src="https://c.top4top.io/p_1837yybbf0.jpeg"></a>&nbsp;&nbsp;
-   <a href="https://instagram.com/Hafidz Banu"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
+   <a href="https://instagram.com/apis_xl_ips4"><img height="30" src="https://raw.githubusercontent.com/TobyG74/TobyG74/main/instagram.jpg"></a>
 
 <p align="center">&nbsp;</p>
 <a href="https://github.com/pisubot/Pis-Userbot/fork">

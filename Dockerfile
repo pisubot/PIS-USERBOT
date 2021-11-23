@@ -9,7 +9,8 @@ RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
 
 #Install python  https://raw.githubusercontent.com/pisubot/Pis-Userbot/Pis-Userbot/requirements.txt
-RUN pip3 install -r https://raw.githubusercontent.com/pisbot/Pis-Userbot/Pi-Userbot/requirements.txt
+RUN pip3 install -r https://raw.githubusercontent.com/fjgaming212/Flicks-Userbot/Flicks-Userbot/requirements.txt
+
 
 EXPOSE 80 443
 

@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/pisubot/PIS-USERBOT",
+  "repository": "https://github.com/pisubot/Pis-Userbot",
   "telegram": "https://t.me/Apisesad",
   "success_url": "https://t.me/pissupport"
   "stack": "container",
@@ -23,7 +23,7 @@
       "required": true
     },
      "STRING_SESSION": {
-      "description": "Dapatkan String Session di https://replit.com/@hapidqiyas/StringSession#main.py",
+      "description": "Dapatkan String Session di https://replit.com/@pisuserbot/StringSession#main.py",
       "required": true
     },
     "HEROKU_APP_NAME": {
