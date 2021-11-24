@@ -156,7 +156,7 @@
     },
     "WEATHER_DEFCITY": {
       "description": "Set the default city for the userbot's weather module.",
-      "value": "Solo",
+      "value": "Pulau seribu",
       "required": false
     },
     "LOGSPAMMER": {
