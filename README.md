@@ -40,7 +40,7 @@ Terimakasih telah menggunakan repository ini!
 
 
 ## DEPLOY TO HEROKU 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/pisubot/Flicks-Userbot"> <img src="https://www.herokucdn.com/deploy/button.svg" /></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/pisubot/Pis-Userbot"> <img src="https://www.herokucdn.com/deploy/button.svg" /></a></p>
 
 ### Tutorial Deploy
 ```
